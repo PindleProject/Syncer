@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200" src="https://user-images.githubusercontent.com/85985225/122252326-dd920180-cee8-11eb-89a3-73853057d5f5.png">
+  <img width="200" src="https://user-images.githubusercontent.com/85985225/122311022-edcccf80-cf2e-11eb-91c2-695bf1e52973.png">
 </p>
 <h1 align="center">Syncer</h1>
 <h2> Description</h2> 
