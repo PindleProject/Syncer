@@ -18,7 +18,7 @@
 
 ### Installing
 <li>For Debian based system install:</li>
-<li>For Rhel based system install:</li>
+<li>For Rhel based system install:<a href>pindlesyncer-1.0-2.x86_64.rpm</a></li>
 <li>For Windows based system install:</li>
 
 
