@@ -19,7 +19,7 @@
 ### Installing
 <li>For Debian based system install:<a href="https://github.com/PindleProject/Syncer/releases/download/v1.0/pindlesyncer_1.0-1.deb">pindlesyncer_1.0-1.x86_64.deb</a></li>
 <li>For Rhel based system install:<a href="https://github.com/PindleProject/Syncer/releases/download/v1.0/pindlesyncer-1.0-2.x86_64.rpm">pindlesyncer_1.0-2.x86_64.rpm</a></li>
-<li>For Windows based system install:</li>
+<li>For Windows based system install:<a href="https://github.com/PindleProject/Syncer/releases/download/v1.0/PindleSyncer.exe">pindlesyncer.exe</a></li>
 
 
 ### Executing Program
